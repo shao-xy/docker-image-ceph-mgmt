@@ -1,0 +1,6 @@
+[submodule "ceph-dev-base"]
+	path = ceph-dev-base
+	url = git@github.com:shao-xy/docker-image-ceph-dev.git
+[submodule "ceph-dev-latest"]
+	path = ceph-dev-latest
+	url = git@github.com:shao-xy/docker-image-ceph-dev-latest.git
